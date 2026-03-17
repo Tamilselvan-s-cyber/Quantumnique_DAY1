@@ -1,0 +1,42 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+
+Explain Your Final Year Project
+
+Project Title: Online Voting System
+
+
+Problem Statement:
+
+                Traditional paper-based voting is slow, prone to human error, and difficult to manage. Many 
+                eligible voters are unable to participate due to geographical barriers or physical disabilities,
+                leading to lower engagement and potential security risks in manual counting.
+
+
+Technologies Used :
+
+
+               Frontend: HTML, CSS (Tailwind for responsive design), and JavaScript (React.js ).
+               Backend : Node.js with Express.js, PHP to handle server-side logic.
+               Database:  MongoDB (NoSQL) for flexible data handling.
+
+
+Your Role in the Project:
+
+
+              (1) Full-Stack Developer: Responsible for the end-to-end development, including designing the voter UI, 
+                   building the secure backend API, and integrating the database.
+
+              (2) Security Engineer: Focused on implementing encryption protocols, preventing SQL injection,
+                  and ensuring the "one-voter-one-vote" logic was unhackable.
+
+              (3) Database Administrator (DBA): Designed the schema to handle thousands of concurrent entries 
+                   and optimized queries for real-time result tallying. 
+
+
+Challenges Faced:
+              
+         Online voting faces critical cybersecurity risks like malware and DDoS attacks that can compromise ballot
+         integrity or block access.The system must also solve the secrecy-verifiability paradox, ensuring votes remain 
+         anonymous while allowing voters to confirm their choice was counted.Additionally, the lack of a physical audit 
+         trail makes manual recounts impossible, often leading to low public trust and legal hurdles.
