@@ -1,0 +1,72 @@
+BLOCK 1 – APTITUDE (Ratio & Proportion)
+
+
+Ques-1
+
+If the ratio of A:B is 3:5 and B:C is 2:3, find A:C.
+
+Solution:
+
+        A / c = A / B * B / c
+
+              = 3 / 5 * 2 / 3
+
+              = 6 / 15
+
+Common divisible number 3;   
+         
+            A / C = 6 * 3 / 15 * 3
+
+            A / C = 2 / 5
+
+Answer: A : C = 2 : 5.
+    
+Ques-2
+
+Divide ₹1000 in the ratio 2:3:5.
+
+Solution:
+            total part = 2 + 3 + 5 = 10
+            each part = 100
+            
+            2 * 100 = 200
+            3 * 100 = 300 
+            5 * 100  = 500
+
+Answer: ₹200 , ₹300 , ₹500.
+
+Ques-3
+
+If 4 pens cost ₹40, what is the cost of 10 pens?
+
+Solution:
+    
+        1 pen = ₹10 
+        10 pen = 10 * 10 = 100
+
+Answer:₹100.
+
+Ques-4
+
+The ratio of boys to girls in a class is 3:2. If total students = 50, find number of girls.
+
+Solution:
+ 
+        total students = 50 ; b:g = 3 : 2
+        boys = 30 
+        girls = 20
+
+Answer :20 girls.
+
+Ques-5
+
+If A:B = 4:7 and B = 21, find A.
+
+Solution:
+
+        1 part = 3
+        A part have 4
+        A = 4 * 3 = 12
+
+Answer: A = 12.
+ 
