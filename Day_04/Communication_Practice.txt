@@ -1,0 +1,41 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+
+Explain a technical concept:
+
+
+(1) ARRAY :
+
+Definition:
+            An array is a data structure that stores multiple values in a single
+             variable using index positions.
+
+Real-world example:
+
+             A student mark list → each subject mark stored in order.
+
+Use case:
+            Used in searching, sorting, and storing collections efficiently .
+
+(2) DBMS :
+
+
+Definition :
+
+            A DBMS is software used to store, manage, and retrieve data efficiently 
+            from a database.
+
+Real-World Example:
+
+        Think of a bank system;
+
+        Customer details, account balance, transactions are stored in a database.
+
+Use Case:
+            DBMS is used in;
+
+                  (a)  Banking systems (transactions, accounts).
+
+                  (b)  E-commerce (orders, users, products).
+
+                  (c)  Social media (user profiles, posts).
