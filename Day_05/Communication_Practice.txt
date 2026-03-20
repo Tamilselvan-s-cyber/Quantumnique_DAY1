@@ -1,0 +1,31 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+
+Explain a recent technical topic you learned.
+
+
+Topic : OOPS concept
+
+      (1) Object-Oriented Programming is a programming paradigm based on the concept of objects.
+
+      (2) Objects are instances of classes, which act as blueprints for creating real-world entities in code.
+
+      (3) OOPS helps in organizing code in a structured and reusable way. 
+
+      (4) It is built on four main principles;
+                   
+                   (a) Encapsulation
+                   (b) Inheritance
+                   (c) Polymorphism
+                   (d) Abstraction
+
+(a) Encapsulation means binding data and methods together and restricting direct access to some components. 
+
+(b) Inheritance allows one class to acquire properties and behavior from another class.
+
+(c) Polymorphism means many forms. It allows methods to behave differently based on the context. 
+
+(d) Abstraction focuses on hiding complex implementation details and showing only essential features.
+
+
+      (4) It helps in building scalable systems like web applications, mobile apps, and enterprise software.
