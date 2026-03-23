@@ -1,0 +1,93 @@
+BLOCK 1 – APTITUDE (Probability)
+
+Ques-1
+
+What is the probability of getting a head when tossing a coin?
+
+Solution:
+ 
+            fair coin = H ,T
+
+            Favorable  = 1 (Head)
+
+            𝑃(H) = 1 / 2
+	​
+
+Answer: 1 / 2 .
+
+Ques-2
+
+What is the probability of getting a number greater than 4 when rolling a dice?
+
+Solution:
+          
+          probability possible  = {1,2,3,4,5,6} 
+
+                          total = 6
+
+          Numbers greater than 4 = {5,6} 
+                      
+                        favorable = 2
+
+                 P = 2 / 6 
+                   
+                   = 1 / 3
+​
+
+Answer: 1/3 .
+
+Ques-3
+
+A bag contains 3 red balls and 2 blue balls.
+Find probability of picking a red ball.
+
+Solution:
+
+         
+          Total balls = 5
+
+          Red balls = 3
+
+          P (red ball) = 3 / 5
+
+
+✅ Answer: 3/5 .
+
+Ques-4
+
+If two coins are tossed, what is probability of getting two heads?
+
+Solution:
+
+             possible = {HH, HT, TH, TT}
+
+                total = 4
+
+              Favorable  = {HH} = 1
+
+                 𝑃(2 Heads) = 1 / 4 
+
+
+Answer: 1 / 4 .
+
+Ques-5
+
+Probability of selecting a vowel from the word ENGINEER.
+
+Solution:
+
+            E N G I N E E R
+
+            Tot letters = 8
+
+            Vowels = E, I, E, E 
+
+             total letters = 4
+
+
+                p(vowel) = 4 / 8
+
+                         = 1 / 2
+
+Answer: 1 / 2 .
+

@@ -1,0 +1,18 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+
+Explain how the Internet works:
+
+           (1) The Internet is a global network that connects millions of computers, allowing them to 
+                communicate and share information.
+
+           (2)  Once the IP address is found, the browser sends a request to the server where the website is stored.
+
+           (3) A server is a powerful computer that stores website data such as HTML files, images, and videos.
+
+           (4) After receiving the request, the server processes it and sends back a response.
+
+           (5) This response contains the website data.
+
+           (6) The browser then interprets this data and displays the webpage on the screen for the user.
+
