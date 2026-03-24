@@ -1,0 +1,16 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+
+Explain your favorite programming language.
+
+            (1) My favorite programming language is Java.
+            
+            (2) I like Java because it is simple, secure, and platform-independent. 
+            
+            (3) It follows the concept of write once, run anywhere, which makes it very useful.
+
+            (4) Java is widely used in web development, mobile applications and enterprise-level applications.
+
+            (5) Some important features of Java include object-oriented programming, strong memory management, and a large community support.
+
+

@@ -1,0 +1,86 @@
+
+BLOCK 1 – APTITUDE (Mixtures & Averages)
+
+Ques-1
+
+The average of 5 numbers is 20. Find the total sum.
+
+Solution:
+
+        Average = 20
+        Numbers = 5
+        
+        Sum = Average × Count 
+            = 20 × 5 = 100
+
+Answer: 100.
+
+Ques-2
+
+The average of 10 numbers is 15. If one number is removed, the average becomes 14. Find the removed number.
+
+
+Solution:
+
+            Total of 10 nums = 10 × 15 = 150
+            
+            Total of 9 nums = 9 × 14 = 126
+            
+            Removed number = 150 − 126 = 24
+
+Answer: 24.
+
+Ques-3
+
+A container has milk and water in ratio 3:2. If 10 liters of water is added, ratio becomes 3:4. Find initial quantity.
+
+Solution:
+
+           given;
+           initial milk = 3x
+           water = 2x
+
+           After adding 10L of water
+
+           3x  / 2x + 10 = 3 / 4 
+
+           12x = 6x + 30
+
+           6x = 30
+
+           x = 30 / 6 = 5
+
+           3x + 2x = 5x = 25 
+
+
+Answer: 25 liters.
+
+
+Ques-4
+
+Find average of first 20 natural numbers.
+
+Solution:
+            n = 20
+
+     Average of first n natural numbers = (n+1) / 2
+
+                                    = (20+1) / 2 
+                                    
+                                    = 10.5
+
+Answer: 10.5.
+
+Ques-5
+
+The average age of 5 students is 18. A new student joins and average becomes 19. Find age of new student.
+
+Solution:
+
+            Total of 5 students = 5 × 18 = 90
+
+            Total of 6 students = 6 × 19 = 114
+
+            New student age = 114 − 90 = 24
+
+Answer: 24.
